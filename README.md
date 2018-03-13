@@ -1,1 +1,2 @@
 # StopWatch
+A console application that acts as a stopwatch. The user is prompted to start and stop the application, the application uses DateTime.Now to calculate the time that passes while the application is running. I used a constructor in the Timer class to read "Stopwatch" on the console when a new instance of the Timer class is created. I used the TotalTime method to calculate the time passed, so the method can be called more than once in the application.
